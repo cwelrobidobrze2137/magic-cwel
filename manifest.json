@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "mObywatel",
+  "version": "1.0",
+  "start_url": "/",
+  "display": "standalone"
+  "background": {
+    "service_worker": "worker.js"
+  }
+}
